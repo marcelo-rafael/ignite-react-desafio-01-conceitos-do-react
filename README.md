@@ -57,7 +57,7 @@
 <hr>
 <div>
   <h1 align="center">
-    Desafio 01 - Conceitos do React.js - Ignite - Trilha React.js
+    Desafio 01 - Conceitos do React - Ignite - Trilha React.js
   </h1>
   <p align="center">Deployed 
     <a href="https://ignite-react-desafio-01-conceitos-do-react.vercel.app/">here</a>
